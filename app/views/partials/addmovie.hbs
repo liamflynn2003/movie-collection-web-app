@@ -1,0 +1,27 @@
+<form class="ui stacked segment form" action="/collection/{{collection.id}}/addmovie" method="POST">
+  <div class="four fields">
+    <div class="field">
+      <label>Title</label>
+      <input placeholder="Title" type="text" name="title" autofocus required>
+    </div>
+    <div class="field">
+      <label>Director</label>
+      <input placeholder="Director" type="text" name="director" required>
+    </div>
+    <div class="field">
+      <label for = "genre"> Genre</label>
+      <select name="genre" id="genre">
+              <option value ="Comedy">Comedy</option>
+              <option value ="Action">Action</option>
+              <option value ="Romace">Romance</option>
+              <option value ="Drama">Drama</option>
+              <option value ="Science Fiction">Science Fiction</option>
+			</select> 
+    </div>
+    <div class="field">
+      <label>Duration</label>
+      <input placeholder="Runtime" type="text" name="runtime" required>
+    </div>
+  </div>
+  <button class="ui blue submit button">Add Movie</button>
+</form>

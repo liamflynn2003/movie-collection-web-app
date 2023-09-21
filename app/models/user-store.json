@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "firstName": "Liam",
+      "lastName": "Flynn",
+      "email": "liamflynn2003@gmail.com",
+      "password": "DVUURH6y5",
+      "id": "8fbbe64e-bd06-4586-8118-8c1451f8bf7c",
+      "picture": "http://res.cloudinary.com/horsebox98/image/upload/v1650994228/pbtebifupbglg1d9mels.jpg"
+    },
+    {
+      "firstName": "Liam",
+      "lastName": "Flynn",
+      "email": "liamflynnps4@gmail.com",
+      "password": "DVUURH6y5",
+      "id": "21d5dc76-3f0c-4d4f-87e9-9c49a8dea2b4",
+      "picture": "http://res.cloudinary.com/horsebox98/image/upload/v1651164719/xmuhdrf8tfvfd7nnkpsy.jpg"
+    },
+    {
+      "firstName": "Liam",
+      "lastName": "Flynn",
+      "email": "20098690@wit.mail.ie",
+      "password": "DVUURH6y5",
+      "id": "acfb456d-4abb-4eb1-866b-8910fb303b72",
+      "picture": "http://res.cloudinary.com/horsebox98/image/upload/v1651657312/cmdqyden4r8lfeqpunyg.png"
+    },
+    {
+      "firstName": "Rosanne",
+      "lastName": "Birney",
+      "email": "rosanne@gmail.com",
+      "password": "Secret1",
+      "id": "e32f5b97-d11c-489d-a238-99011e83f518",
+      "picture": "http://res.cloudinary.com/horsebox98/image/upload/v1652773053/mfvyjj3n8ndl7www6hnn.jpg"
+    }
+  ]
+}

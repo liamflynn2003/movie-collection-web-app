@@ -1,0 +1,45 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: lightblue;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+#logo {
+  margin: 0px 10px;
+}
+
+#indexpage {
+  background-image: url(https://cdn.glitch.global/b9cc1a15-f17d-4579-b9fb-0c8a17afc6a6/cinema.jpg?v=1651322987935);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#readmore {
+  display: none;
+}
+
+#welcomeuser {
+  display: none;
+}
+
+.name {
+  padding-top: 20px;
+  padding-right: 5px;
+  line-height: 20px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.profilepic {
+  padding-top: 15px;
+  padding-right: 5px;
+  line-height: 20px;
+  font-weight: bold;
+}

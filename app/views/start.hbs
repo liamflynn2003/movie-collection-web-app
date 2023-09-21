@@ -1,0 +1,68 @@
+{{> menu}}
+
+<section class="ui two column grid segment">
+  <div class="ui column">
+    <h1 class="ui header">
+      Welcome to the Movie Collection App, {{fullname}}!
+    </h1>
+      <p>
+        This app will allow users to create and maintain collections of movies.
+      </p>
+      <div class="buttons">
+        <button class="ui blue button" onclick="showHide()">
+          Read more <i class="arrow circle right icon"></i>
+        </button>
+        <button class="ui green button" onclick="alert('Thanks! You\'re okay too')">
+          Like it? <i class="thumbs up icon"></i>
+        </button>
+        <button class="ui red button" onclick="welcomeUser()">
+          Who are you? <i class="user icon"></i>
+        </button>
+      </div>
+      <div id="readmore" class="ui message">
+        <p>
+         A handy app you can use to organise all your favourite or least favourite movies!
+        </p>  
+      </div>
+      <div id="welcomeuser" class="ui message" onclick="hideWelcome()"> </div>
+    
+      <div class="ui divider"></div>
+    
+      <h3 class="ui center aligned header">The Movie Collection App now contains:</h3>
+      <div class="ui two statistics">
+        <div class="ui huge statistic">
+          <div class="value">
+            {{totalCollections}}
+          </div>
+          <div class="label">
+            Collections
+          </div>
+        </div>
+        <div class="ui huge statistic">
+          <div class="value">
+            {{totalMovies}}
+          </div>
+          <div class="label">
+            Movies
+          </div>
+        </div>
+    </div>
+  </div>
+  
+  <div class="ui column">
+    <div class="ui grid">
+      <div class="ui eight wide column">
+        <img class="ui small circular image" src="https://cdn.glitch.global/b9cc1a15-f17d-4579-b9fb-0c8a17afc6a6/shawshank.jpg?v=1648557106223">
+      </div>
+      <div class="ui eight wide column">
+        <img class="ui small circular image" src="https://cdn.glitch.global/b9cc1a15-f17d-4579-b9fb-0c8a17afc6a6/spadaman.jpg?v=1648557168335">
+      </div>
+      <div class="ui eight wide column">
+        <img class="ui small circular image" src="https://cdn.glitch.global/b9cc1a15-f17d-4579-b9fb-0c8a17afc6a6/gump.jpg?v=1648557304212">
+      </div>
+      <div class="ui eight wide column">
+        <img class="ui small circular image" src="https://cdn.glitch.global/b9cc1a15-f17d-4579-b9fb-0c8a17afc6a6/et.jpg?v=1648557373331">
+      </div>
+    </div>
+  </div>
+</section>

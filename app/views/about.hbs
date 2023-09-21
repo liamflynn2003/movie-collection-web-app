@@ -1,0 +1,22 @@
+{{> menu id="about"}}
+
+<section class="ui center aligned middle aligned segment">
+  <h2 class="ui header">
+    The movie collection app team: 
+  </h2>
+
+  <!-- Developer cards -->
+  <div class="ui centered cards">
+    {{#each developers}}
+        {{> card}}
+    {{/each}}
+  </div>
+  
+  <!-- Form to Submit Comments -->
+  {{> addcomment}}
+  
+  <!-- Embedded Map -->
+  <br><b>Map to Company HQ:</b><br>
+  <br>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9758.345721184745!2d-7.50474105733223!3d52.30536047638446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48432871dae354a1%3A0x2600c7a819baff42!2sCarrowleigh%2C%20Rathgormack%2C%20Co.%20Waterford!5e0!3m2!1sen!2sie!4v1651061935598!5m2!1sen!2sie" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>;
+</section>

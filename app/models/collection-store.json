@@ -1,0 +1,92 @@
+{
+  "collectionCollection": [
+    {
+      "id": "71a12075-320a-487d-903b-c1852e0b3ddc",
+      "userid": "a095d9fd-e387-40fc-8ec0-4b89a1b026c8",
+      "title": "Fav Movies",
+      "picture": "http://res.cloudinary.com/horsebox98/image/upload/v1651064531/mkij5y7mhbvdhvnr8sgp.jpg",
+      "date": "2022-04-27T13:02:10.971Z",
+      "movies": [
+        {
+          "id": "9de029d3-2d4f-4ac6-a2d8-73a8805f53e1",
+          "title": "Hot Fuzz  ",
+          "director": "Edgar Wright  ",
+          "genre": "Comedy",
+          "runtime": "120 mins"
+        }
+      ]
+    },
+    {
+      "id": "ce64a3ec-6add-420b-a6c3-20f373f87f21",
+      "userid": "8fbbe64e-bd06-4586-8118-8c1451f8bf7c",
+      "title": "Test 1 Collection",
+      "picture": "http://res.cloudinary.com/horsebox98/image/upload/v1651362846/q0envtwps8khhfsrkwey.jpg",
+      "date": "2022-04-30T23:54:06.745Z",
+      "movies": [
+        {
+          "id": "47a5ebcf-54dc-45b8-83bf-5b4c8ebd9649",
+          "title": "Movie 1",
+          "director": "Harry ",
+          "genre": "Comedy",
+          "runtime": "80 mins"
+        },
+        {
+          "id": "2098fb37-3761-4b37-9267-da9fb6510840",
+          "title": "MOvie 2",
+          "director": "y6",
+          "genre": "Comedy",
+          "runtime": "fhg"
+        }
+      ]
+    },
+    {
+      "id": "cd4e556f-460f-48da-9a10-3d3b308f1f4c",
+      "userid": "21d5dc76-3f0c-4d4f-87e9-9c49a8dea2b4",
+      "title": "ergr",
+      "picture": "http://res.cloudinary.com/horsebox98/image/upload/v1651656485/pcsbg7e4yzdr8ewoq0yi.png",
+      "date": "2022-05-04T09:28:05.685Z",
+      "movies": [
+        {
+          "id": "bb3e71e5-1840-4ac5-bc64-abf205c385bb",
+          "title": "Hot Fuzz ",
+          "director": "Edgar Wright ",
+          "genre": "Comedy",
+          "runtime": "120 minutes"
+        }
+      ]
+    },
+    {
+      "id": "a71fdab8-65e7-4de0-a926-f3c10acdc768",
+      "userid": "acfb456d-4abb-4eb1-866b-8910fb303b72",
+      "title": "Fav Movies",
+      "picture": "http://res.cloudinary.com/horsebox98/image/upload/v1651657340/qax7qkyixvrbptfnwkic.png",
+      "date": "2022-05-04T09:42:20.076Z",
+      "movies": [
+        {
+          "id": "9cbe955f-4e4a-4162-b749-9b8ba00d8fae",
+          "title": "Hot Fuzz",
+          "director": "Edgar Wright",
+          "genre": "Comedy",
+          "runtime": "120 minutes"
+        }
+      ]
+    },
+    {
+      "id": "087824bf-9377-4930-aa51-5332249888b8",
+      "userid": "e32f5b97-d11c-489d-a238-99011e83f518",
+      "title": "test",
+      "picture": "http://res.cloudinary.com/horsebox98/image/upload/v1652773311/ozszlaoe119td5umbd3c.jpg",
+      "date": "2022-05-17T07:41:51.600Z",
+      "movies": [
+        {
+          "id": "58ebd7b7-ad94-4a8b-9bb4-ada0561a4b04",
+          "title": "Test ",
+          "director": "Test ",
+          "genre": "Comedy",
+          "runtime": "120"
+        }
+      ]
+    }
+  ],
+  "commentC": []
+}

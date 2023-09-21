@@ -1,0 +1,20 @@
+{
+  "developers": [
+    {
+      "name": "Justin",
+      "fullname": "Justin power",
+      "image": "https://cdn.glitch.global/b9cc1a15-f17d-4579-b9fb-0c8a17afc6a6/justin.jpg?v=1648565684341",
+      "joined": 2018,
+      "job": "Web App Developer",
+      "city": "Dunhill"
+    },
+    {
+      "name": "Aaron",
+      "fullname": "Aaron Cheasty",
+      "image": "https://cdn.glitch.global/b9cc1a15-f17d-4579-b9fb-0c8a17afc6a6/arn.jpg?v=1648565679083",
+      "joined": 2019,
+      "job": "Graphics Designer",
+      "city": "Ballyduff"
+    }
+  ]
+}
